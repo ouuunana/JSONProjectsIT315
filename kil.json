@@ -1,0 +1,67 @@
+{
+- KeepItLocal : [
+-{
+        ArtistName = "Casino The Don",
+        ArtistDescription = "CasinoTheDon is a young and upcoming rapper from  Hampton, VA with ties to the west Coast. This young artist is avidly inspired by the late greats of Kobe Bryant and Nipsey Hussle, and the soulful respect he gives to these pioneers is evident in his lyrics.",
+        ArtistImage = "https://raw.githubusercontent.com/ouuunana/JSONProjectsIT315/master/casinothedon.jpg",
+        ArtistWebSite = "https://www.youtube.com/channel/UC83amJwOIje3vCfarisdcng",
+        ArtistSocial = "https://www.instagram.com/casinothedon/",
+        Location = "Hampton, Virginia",
+        Genre = "Genre: HIP-POP",
+        LatestImage = "https://raw.githubusercontent.com/ouuunana/JSONProjectsIT315/master/casinothedonlatest.jpg",
+        },
+        
+-{
+        ArtistName = "OuuuNana",
+        ArtistDescription = "Nana (OuuuNana) is the creator of the Keep It Local, or KIL App. He is a graphic designer, artist, and Information technology student. Along with this app, Nana is the founder of the OwtSPKN DREAM creative studios and plans to extend this app into a collection to promote local musicians and creatives.",
+        ArtistImage = "https://github.com/ouuunana/JSONProjectsIT315/blob/master/nanaprofile.jpg",
+        ArtistWebSite = "https://www.instagram.com/ouuu_did_it_again/",
+        ArtistSocial = "https://www.instagram.com/ouuunana_/",
+        Location = "Woodbridge, Virginia",
+        Genre = "Genre: Visual Artist",
+        LatestImage = "https://github.com/ouuunana/JSONProjectsIT315/blob/master/KIL%20(Circle).PNG",
+        },
+      
+-{
+        ArtistName = "Sandbox Productions",
+        ArtistDescription = "Sandbox is a growing photography and videography service in the Northen Virginia area. The newest of the creatives listed, Sandbox has grown exponentially since its 2021 inception. The future of SBX Productions is focused on expanding into music video production and creating content for services like YouTube and TikTok.",
+        ArtistImage = "https://raw.githubusercontent.com/ouuunana/JSONProjectsIT315/master/sbxproductions.jpg",
+        ArtistWebSite = "https://www.instagram.com/sandboxproduction.s/",
+        ArtistSocial = "https://www.instagram.com/sandboxproduction.s/",
+        Location = "Woodbridge, Virginia",
+        Genre = "Genre: Photography",
+        LatestImage = " https://raw.githubusercontent.com/ouuunana/JSONProjectsIT315/master/sbxlatest.jpg",
+        },
+-{
+        ArtistName = "Playtrixxx",
+        ArtistDescription = "The longest running creative on this list, Playtrixxx has collaborated with several artists across the entire DMV area. More than just a musician, this artist mixes, masters and performs piano to add to his skillset.",
+        ArtistImage = "https://github.com/ouuunana/JSONProjectsIT315/blob/master/playtrixxx.JPEG",
+        ArtistWebSite = "https://www.youtube.com/channel/UCWoJLcd3CU-ji6fSCK1bDuQ",
+        ArtistSocial = "https://www.instagram.com/playtrixx.mbtn/",
+        Location = "Harrisonburg, Virginia",
+        Genre = "Genre: Hip-pop",
+        LatestImage = "https://github.com/ouuunana/JSONProjectsIT315/blob/master/playtrixxxlatest.jpg",
+        },
+
+-{
+        ArtistName = "SmooveDonn",
+        ArtistDescription = "SmooveDonn is a man on a mission to reignite lyrical rap within this current generation. This artist fills his poetic songs with punchlines so impactful it is easy to draw comparisons from his musical inspirations such as J. Cole.",
+        ArtistImage = "https://github.com/ouuunana/JSONProjectsIT315/blob/master/smoovedonn.jpg",
+        ArtistWebSite = "https://linktr.ee/SmooveDonn",
+        ArtistSocial = "https://www.instagram.com/smoovedonn/",
+        Location = "Montclair, Virginia",
+        Genre = "Genre: Hip-pop",
+        LatestImage = "https://github.com/ouuunana/JSONProjectsIT315/blob/master/smoovedonnlatest.jpg",
+        },
+-{
+        ArtistName = "SheLuvOSO",
+        ArtistDescription = "SheLuvOSO is a Woodbridge/ Hampton based rapper with years of experience in freestlyling, covering and showcasing his creativity within the hip-pop scene. The young and upcoming artists has several projects on multiple streaming platforms, and multiple collaborations with other likeminded young stars to add to his repetoire.",
+        ArtistImage = "https://raw.githubusercontent.com/ouuunana/JSONProjectsIT315/master/sheluvoso.png",
+        ArtistWebSite = "https://linktr.ee/SheLuvOSO",
+        ArtistSocial = "https://www.instagram.com/osoupnext/",
+        Location = "Hampton, Virginia",
+        Genre = "Genre: Hip-pop",
+        LatestImage = "https://raw.githubusercontent.com/ouuunana/JSONProjectsIT315/master/oldschoolblake.JPEG",
+        }
+]
+}
